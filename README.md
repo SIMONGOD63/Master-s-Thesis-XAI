@@ -5,13 +5,13 @@ The dataset consists of a survey on the habits of Quebec residents conducted in 
 of collecting this dataset was to enable the development of a tool allowing individuals to position themselves on
 the political spectrum solely based on their lifestyle and demographic features (e.g., age, income). This represents
 a challenging and relatively uncommon case on which to test both the explainability methods and the comparison
-benchmark on a real-world dataset.
+benchmark on a real-world dataset.\\
 A central challenge of this task lies in defining criteria that allow for a meaningful comparison between fundamentally different explainability techniques. This difficulty arises from several factors, including diversity in
 explanation techniques, variability in explanation outputs, dependence on data type, and the lack of consensus
 on what constitutes a good explanation in the Machine Learning (ML) field. To address this challenge, a structured comparison framework is proposed in Section 5, largely inspired by the functionally grounded evaluation
 approaches described in [14] and [35]. Those scientific articles provide answers to the question of how to evaluate
 and compare XAI methods in a systematic way, based on the Ethics Guidelines for Trustworthy AI published by
-the European Union’s High Level Expert Group (AI HLEG) [20].
+the European Union’s High Level Expert Group (AI HLEG) [20].\\
 This work begins by introducing XAI and the accuracy and interpretability tradeoff in section 1.2. Section 2
 presents the datasets and the predictive model, a Neural Network (NN), used as a black-box model to be explained.
 Section 3 defines the theoretical foundation of the three post-hoc explainability techniques used — SHAP, LIME
