@@ -28,5 +28,9 @@ more deeply and to see how they compare to an intrinsically interpretable model 
 5 defines the characteristics providing the formal definition of a XAI’s method desired properties, on which we
 are going to compare the 4 approaches. The section 6 discusses the findings and concludes the thesis.
 
+## What you can find in this repository
+- The last two chapters of my thesis, the comparisons of the different methods.
+- All the code required to generate it.
+
 
 [If you require the full work send me a message at simeon7730@proton.me]
