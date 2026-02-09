@@ -33,4 +33,4 @@ are going to compare the 4 approaches. The section 6 discusses the findings and 
 - All the code required to generate it.
 
 
-[If you require the full work send me a message at simeon7730@proton.me]
+[If you require the full work send me a message at simeon7733@proton.me]
