@@ -29,7 +29,7 @@ more deeply and to see how they compare to an intrinsically interpretable model 
 are going to compare the 4 approaches. The section 6 discusses the findings and concludes the thesis.
 
 ## What you can find in this repository
-- The last two chapters of my thesis, the comparisons of the different methods.
+- The introduction and the last two chapters of my thesis: the definition of the evaluation criteria and the conclusion.
 - All the code required to generate it.
 
 
